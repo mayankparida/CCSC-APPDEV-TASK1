@@ -24,7 +24,9 @@ For running this script you'll need:
 ## Final Look:
 This is how the application looks when you run it.
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:216.67%;position:relative;"><iframe width="360" height="780" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/49vw2i"></iframe></div><p><a href="https://imgflip.com/gif/49vw2i">via Imgflip</a></p></div>
+
+![49vw2i](https://user-images.githubusercontent.com/68542629/88918903-e6092b80-d287-11ea-9b04-bdb926c423bd.gif)
+
 
 ## Authors:
 * Mayank Parida
