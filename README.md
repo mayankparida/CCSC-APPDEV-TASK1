@@ -24,6 +24,11 @@ For running this script you'll need:
 ## Final Look:
 This is how the application looks when you run it.
 
+[VIDEOMP4](https://drive.google.com/file/d/1i9oGxcf-5vzDmGvMsseGA032ijuduHGc/view?usp=sharing) link of the running application
+
+### OR
+
+gif of the running application
 
 ![49vw2i](https://user-images.githubusercontent.com/68542629/88918903-e6092b80-d287-11ea-9b04-bdb926c423bd.gif)
 
