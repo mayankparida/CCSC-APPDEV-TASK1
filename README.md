@@ -3,9 +3,9 @@ A flutter project written in Android Studio using Dart language to show basic fu
 
 ## Prerequisites:
 For running this script you'll need:
-..* Android Studio
-⋅..* Android Emulator(In Android Studio) or Android device
-⋅⋅* Flutter Plugin
+* Android Studio
+* Android Emulator(In Android Studio) or Android device
+* Flutter Plugin
 
 ## Installing And Running:
 ⋅⋅* To download Android Studio [Click Here](https://developer.android.com/studio)
