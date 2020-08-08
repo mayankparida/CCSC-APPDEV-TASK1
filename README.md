@@ -34,5 +34,5 @@ gif of the running application
 
 
 ## Authors:
-* Mayank Parida
+* [Mayank Parida](https://www.linkedin.com/in/mayankparida18/)
 
